@@ -985,7 +985,7 @@ Sidebar.prototype.addGeneralPalette = function(expand)
 };
 
 /**
- * Adds the general palette to the sidebar.
+ * Adds the Basic palette to the sidebar.
  */
 Sidebar.prototype.addBasicPalette = function(dir)
 {
@@ -1000,7 +1000,7 @@ Sidebar.prototype.addBasicPalette = function(dir)
 };
 
 /**
- * Adds the general palette to the sidebar.
+ * Adds the Misc palette to the sidebar.
  */
 Sidebar.prototype.addMiscPalette = function(expand)
 {
